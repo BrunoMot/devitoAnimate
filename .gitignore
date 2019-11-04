@@ -105,3 +105,8 @@ venv.bak/
 
 # figures
 snaps/
+
+# videos
+movies/
+*.mp4
+
